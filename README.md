@@ -1,6 +1,7 @@
 # 3.2.-Segmentation-Image-processing-
 Remove the background the video files
 
+## Description:
 3. Video processing
 
     3.2. Segmentation (Image processing)
